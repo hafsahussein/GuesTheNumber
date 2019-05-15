@@ -1,53 +1,53 @@
 body {
-	margin: 0 auto;
+    margin: 0 auto;
 }
 #container{
-	margin: 10% auto;
-	width: 80%;
-	background-color: #444;
+    margin: 10% auto;
+    width: 80%;
+    background-color: #444;
 }
 form {
-	width:50%;
-	margin:20% auto;
+    width:50%;
+    margin:20% auto;
 
-	width: 80%;
-	margin: 3%;
+    width: 80%;
+    margin: 3%;
 }
 #guess {
-		border: 1px solid #9361bf;
-			border-radius: 6px;
+        border: 1px solid #9361bf;
+            border-radius: 6px;
 
 
-}	
+}    
 #submit{
-	border: 1px solid #9361bf;
-	border-radius: 6px;
-	margin: 10% auto;
-	width:20%;
-	font-weight: bold;
-	text-transform: capitalize;
-	cursor: pointer;
+    border: 1px solid #9361bf;
+    border-radius: 6px;
+    margin: 10% auto;
+    width:20%;
+    font-weight: bold;
+    text-transform: capitalize;
+    cursor: pointer;
     background: #9361bf;
     color: white;
 
-	}
+    }
 p{
-	background: red;
-	color:white;
+    background: red;
+    color:white;
 }
 button {
-	    background: #9361bf;
-	    position: relative;
-            top:50%;
-	    left: 50%;
-            transform: translate(-50%,-50%);
-	    font-weight: bold;
-	text-transform: capitalize;
-	cursor: pointer;
+        background: #9361bf;
+        position: relative;
+        top:50%;
+        left: 50%;
+        transform:translate(-50%,-50%);
+        font-weight: bold;
+    text-transform: capitalize;
+    cursor: pointer;
     color: white;
-    	border: 1px solid #9361bf;
-	border-radius: 6px;
+        border: 1px solid #9361bf;
+    border-radius: 6px;
 }
 #submit:focus,#guess:focus,button:focus{
-	outline: none;
-}	
+    outline: none;
+}    
